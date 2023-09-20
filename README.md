@@ -74,9 +74,8 @@ with Highest Distinction*
 ##### **Projects**
 
 - **<a href="https://github.com/chadallison/mlb_cpr" target="_blank">MLB
-  CPR</a> & <a href="https://rpubs.com/chadallison/mlb_scorigami"
-  target="_blank">MLB Scorigami</a>**: Visualizations of Team
-  Performance Metrics for MLB Baseball \| *March 2023 - Present*
+  CPR</a>**: Visualizations of Team Performance Metrics for MLB Baseball
+  \| *March 2023 - Present*
 - **<a href="https://github.com/chadallison/wids_datathon_2023"
   target="_blank">Stanford University WiDS Datathon</a> (Climate
   Change)** \| *February 2023*

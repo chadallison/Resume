@@ -60,7 +60,7 @@ ___
 
 ##### **Projects**
 
-- **[MLB CPR](https://github.com/chadallison/mlb_cpr){target="_blank"} & [MLB Scorigami](https://rpubs.com/chadallison/mlb_scorigami){target="_blank"}**: Visualizations of Team Performance Metrics for MLB Baseball | *March 2023 - Present*
+- **[MLB CPR](https://github.com/chadallison/mlb_cpr){target="_blank"}**: Visualizations of Team Performance Metrics for MLB Baseball | *March 2023 - Present*
 - **[Stanford University WiDS Datathon](https://github.com/chadallison/wids_datathon_2023){target="_blank"} (Climate Change)** | *February 2023*
 - **[abnoRmal](https://github.com/chadallison/abnoRmal){target="_blank"} & [Ode to the Strokes](https://rpubs.com/chadallison/ode_strokes){target="_blank"}**: Exploratory Analysis of Music | *January/February 2023*
 - **[Advent of Code](https://github.com/chadallison/advent_of_code_2022){target="_blank"} & [Project Euler](https://github.com/chadallison/project_euler){target="_blank"}**: Math and Programming Challenges | *December 2022 - Present*
