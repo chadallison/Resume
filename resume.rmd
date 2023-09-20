@@ -1,11 +1,10 @@
 ---
 output: github_document
-knit: (function(input, ...) { rmarkdown::render(input, output_file = "README.md", envir = globalenv()) })
 ---
 
 ### Chad Allison
 
-Arlington, VA | chadrallison@outlook.com | (304) 546-6493 | [LinkedIn](https://www.linkedin.com/in/chad-allison-8808a31a0/){target="_blank"} | [GitHub](https://github.com/chadallison){target="_blank"} | [RPubs](https://rpubs.com/chadallison){target="_blank"}
+Durham, NC | chadrallison@outlook.com | (304) 546-6493 | [LinkedIn](https://www.linkedin.com/in/chad-allison-8808a31a0/){target="_blank"} | [GitHub](https://github.com/chadallison){target="_blank"} | [RPubs](https://rpubs.com/chadallison){target="_blank"}
 
 ___
 
