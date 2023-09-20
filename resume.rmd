@@ -69,7 +69,7 @@ ___
 
 ### **Skills**
 
-- Languages: R, SQL -- Data cleaning, visualizing, manipulating, machine learning, database querying, APIs
+- Languages: R, SQL, Python -- Data cleaning, visualizing, manipulating, machine learning, database querying, APIs
 - Experienced in RStudio, RMarkdown; Tableau; Microsoft Office; Google Analytics; Amazon S3; GitHub
 - Communicating analyses to technical and non-technical audiences
 - Eagerness to learn new skills and ways of thinking
