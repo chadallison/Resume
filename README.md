@@ -1,7 +1,7 @@
 
 ### Chad Allison
 
-Arlington, VA \| <chadrallison@outlook.com> \| (304) 546-6493 \|
+Durham, NC \| <chadrallison@outlook.com> \| (304) 546-6493 \|
 <a href="https://www.linkedin.com/in/chad-allison-8808a31a0/"
 target="_blank">LinkedIn</a> \|
 <a href="https://github.com/chadallison" target="_blank">GitHub</a> \|
@@ -101,8 +101,8 @@ with Highest Distinction*
 
 ### **Skills**
 
-- Languages: R, SQL – Data cleaning, visualizing, manipulating, machine
-  learning, database querying, APIs
+- Languages: R, SQL, Python – Data cleaning, visualizing, manipulating,
+  machine learning, database querying, APIs
 - Experienced in RStudio, RMarkdown; Tableau; Microsoft Office; Google
   Analytics; Amazon S3; GitHub
 - Communicating analyses to technical and non-technical audiences
